@@ -1,1 +1,0 @@
-# amp-anchor-tag-examples
